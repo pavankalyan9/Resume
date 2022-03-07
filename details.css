@@ -1,0 +1,23 @@
+.frame{
+    background-color: rgb(219, 217, 206);
+    border-style: double;
+    width : 800px;
+}
+.details{
+    margin-left: 340px;
+    margin-top: -190px;
+}
+.image{
+    margin: 35px;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    text-decoration: underline;
+}
+.metaData{
+    margin-top: 83px;
+    margin-left: 33px;
+}
